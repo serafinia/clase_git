@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(184, 204, 212)
+}
+
+header{
+    background-color: aquamarine;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.img_git{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 5% 5% 5% 5%;
+}
+
+.text-main{
+    font-size: 20px;
+    color: black;
+    margin: 5% 5% 5% 5%;
+    text-align: justify;
+}
+
+footer{ 
+    background-color: aquamarine;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+footer p{
+    font-weight: bold;
+}
+
